@@ -1,0 +1,14 @@
+﻿[
+  {
+    "Name": "bidder1",
+    "Uri": "http://bidder.apiblueprint.org/bid"
+  },
+  {
+    "Name": "bidder2",
+    "Uri": "http://rtb-bidder-1.com/getBid"
+  },
+  {
+    "Name": "bidder3",
+    "Uri": "http://send-me-your-bid-requests.com/getBid"
+  }
+]
